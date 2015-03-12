@@ -1,0 +1,10 @@
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\bin\Debug\ShowData.exe.config
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\obj\Debug\ShowData.csprojResolveAssemblyReference.cache
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\bin\Debug\ShowData.exe
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\bin\Debug\ShowData.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\bin\Debug\EntityFramework.dll
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\bin\Debug\EntityFramework.SqlServer.dll
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\bin\Debug\EntityFramework.xml
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\bin\Debug\EntityFramework.SqlServer.xml
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\obj\Debug\ShowData.exe
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\ShowData\obj\Debug\ShowData.pdb

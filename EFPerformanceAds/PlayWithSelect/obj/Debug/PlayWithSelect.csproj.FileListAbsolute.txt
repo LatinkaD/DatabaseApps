@@ -1,0 +1,10 @@
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\bin\Debug\PlayWithSelect.exe.config
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\bin\Debug\PlayWithSelect.exe
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\bin\Debug\PlayWithSelect.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\bin\Debug\EntityFramework.dll
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\bin\Debug\EntityFramework.SqlServer.dll
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\bin\Debug\EntityFramework.xml
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\bin\Debug\EntityFramework.SqlServer.xml
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\obj\Debug\PlayWithSelect.csprojResolveAssemblyReference.cache
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\obj\Debug\PlayWithSelect.exe
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithSelect\obj\Debug\PlayWithSelect.pdb

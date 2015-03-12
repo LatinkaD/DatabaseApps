@@ -1,0 +1,10 @@
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\obj\Debug\PlayWithToList.csprojResolveAssemblyReference.cache
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\bin\Debug\PlayWithToList.exe.config
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\bin\Debug\PlayWithToList.exe
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\bin\Debug\PlayWithToList.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\bin\Debug\EntityFramework.dll
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\bin\Debug\EntityFramework.SqlServer.dll
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\bin\Debug\EntityFramework.xml
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\bin\Debug\EntityFramework.SqlServer.xml
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\obj\Debug\PlayWithToList.exe
+E:\Latty\SoftUni\14.DatabaseApplications\3.EFPerformance\EFPerformanceAds\PlayWithToList\obj\Debug\PlayWithToList.pdb
