@@ -1,0 +1,6 @@
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\7.OldAlbums\bin\Debug\7.OldAlbums.exe.config
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\7.OldAlbums\bin\Debug\7.OldAlbums.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\7.OldAlbums\bin\Debug\7.OldAlbums.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\7.OldAlbums\obj\Debug\7.OldAlbums.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\7.OldAlbums\obj\Debug\7.OldAlbums.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\7.OldAlbums\obj\Debug\7.OldAlbums.csprojResolveAssemblyReference.cache

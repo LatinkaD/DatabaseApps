@@ -1,0 +1,6 @@
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\2.ExtractAlbumNames\bin\Debug\2.ExtractAlbumNames.exe.config
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\2.ExtractAlbumNames\bin\Debug\2.ExtractAlbumNames.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\2.ExtractAlbumNames\bin\Debug\2.ExtractAlbumNames.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\2.ExtractAlbumNames\obj\Debug\2.ExtractAlbumNames.csprojResolveAssemblyReference.cache
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\2.ExtractAlbumNames\obj\Debug\2.ExtractAlbumNames.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\2.ExtractAlbumNames\obj\Debug\2.ExtractAlbumNames.pdb

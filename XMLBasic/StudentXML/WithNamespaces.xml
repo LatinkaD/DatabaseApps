@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students:students xmlns:students="http://wikipedia.org/students">
+	<students:student>
+		<students:name>Latinka Demirova</students:name>
+		<students:gender>Female</students:gender>
+		<students:birth_date>1993-05-05</students:birth_date>
+		<students:phone>0897455554</students:phone>
+		<students:email>latinka.demirova@gmail.com</students:email>
+		<students:university>Technical University - Sofia</students:university>
+		<students:speciality>Telecommunications</students:speciality>
+		<students:faculty_number>111212156</students:faculty_number>
+		<students:exams>
+			<students:exam>
+				<students:exam_name>Math</students:exam_name>
+				<students:date>2015-01-15</students:date>
+				<students:grade>6</students:grade>
+			</students:exam>
+			<students:exam>
+				<students:exam_name>Chemistry</students:exam_name>
+				<students:date>2015-01-20</students:date>
+				<students:grade>5</students:grade>
+			</students:exam>
+			<students:exam>
+				<students:exam_name>Phisics</students:exam_name>
+				<students:date>2015-01-23</students:date>
+				<students:grade>6</students:grade>
+			</students:exam>
+		</students:exams>
+	</students:student>
+	<students:student>
+			<students:name>Malina Demirova</students:name>
+			<students:gender>Female</students:gender>
+			<students:birth_date>1989-11-14</students:birth_date>
+			<students:email>malina.demirova@gmail.com</students:email>
+			<students:university>Technical University - Sofia</students:university>
+			<students:speciality>Telecommunications</students:speciality>
+			<students:faculty_number>111208134</students:faculty_number>
+			<students:exams>
+				<students:exam>
+					<students:exam_name>Electronics</students:exam_name>
+					<students:date>2011-01-15</students:date>
+					<students:grade>6</students:grade>
+				</students:exam>
+				<students:exam>
+					<students:exam_name>PIK</students:exam_name>
+					<students:date>2011-01-20</students:date>
+					<students:grade>5</students:grade>
+				</students:exam>
+				<students:exam>
+					<students:exam_name>Phisics</students:exam_name>
+					<students:date>2011-01-23</students:date>
+					<students:grade>6</students:grade>
+				</students:exam>
+			</students:exams>
+		</students:student>
+	<students:student>
+		<students:name>Georgi Krystev</students:name>
+		<students:gender>Male</students:gender>
+		<students:birth_date>1992-05-04</students:birth_date>
+		<students:phone>0897466654</students:phone>
+		<students:email>george.krystev@gmail.com</students:email>
+		<students:university>Technical University - Sofia</students:university>
+		<students:speciality>Mechatronics</students:speciality>
+			<students:exams>
+				<students:exam>
+					<students:exam_name>Mechanics</students:exam_name>
+					<students:date>2014-01-16</students:date>
+					<students:grade>6</students:grade>
+				</students:exam>
+				<students:exam>
+					<students:exam_name>Chemistry</students:exam_name>
+					<students:date>2014-01-20</students:date>
+					<students:grade>5</students:grade>
+				</students:exam>
+				<students:exam>
+					<students:exam_name>Informatics</students:exam_name>
+					<students:date>2014-01-23</students:date>
+					<students:grade>6</students:grade>
+				</students:exam>
+			</students:exams>	
+	</students:student>
+</students:students>

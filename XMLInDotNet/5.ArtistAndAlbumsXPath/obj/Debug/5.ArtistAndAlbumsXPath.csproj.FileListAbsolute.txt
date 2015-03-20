@@ -1,0 +1,5 @@
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\5.ArtistAndAlbumsXPath\bin\Debug\5.ArtistAndAlbumsXPath.exe.config
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\5.ArtistAndAlbumsXPath\bin\Debug\5.ArtistAndAlbumsXPath.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\5.ArtistAndAlbumsXPath\bin\Debug\5.ArtistAndAlbumsXPath.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\5.ArtistAndAlbumsXPath\obj\Debug\5.ArtistAndAlbumsXPath.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\5.ArtistAndAlbumsXPath\obj\Debug\5.ArtistAndAlbumsXPath.pdb

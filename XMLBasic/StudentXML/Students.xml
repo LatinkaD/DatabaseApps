@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+	<student>
+		<name>Latinka Demirova</name>
+		<gender>Female</gender>
+		<birth_date>1993-05-05</birth_date>
+		<phone>0897455554</phone>
+		<email>latinka.demirova@gmail.com</email>
+		<university>Technical University - Sofia</university>
+		<speciality>Telecommunications</speciality>
+		<faculty_number>111212156</faculty_number>
+		<exams>
+			<exam>
+				<exam_name>Math</exam_name>
+				<date>2015-01-15</date>
+				<grade>6</grade>
+			</exam>
+			<exam>
+				<exam_name>Chemistry</exam_name>
+				<date>2015-01-20</date>
+				<grade>5</grade>
+			</exam>
+			<exam>
+				<exam_name>Phisics</exam_name>
+				<date>2015-01-23</date>
+				<grade>6</grade>
+			</exam>
+		</exams>
+	</student>
+	<student>
+		<name>Malina Demirova</name>
+		<gender>Female</gender>
+		<birth_date>1989-11-14</birth_date>
+		<email>malina.demirova@gmail.com</email>
+		<university>Technical University - Sofia</university>
+		<speciality>Telecommunications</speciality>
+		<faculty_number>111208134</faculty_number>
+		<exams>
+			<exam>
+				<exam_name>Electronics</exam_name>
+				<date>2011-01-15</date>
+				<grade>6</grade>
+			</exam>
+			<exam>
+				<exam_name>PIK</exam_name>
+				<date>2011-01-20</date>
+				<grade>5</grade>
+			</exam>
+			<exam>
+				<exam_name>Phisics</exam_name>
+				<date>2011-01-23</date>
+				<grade>6</grade>
+			</exam>
+		</exams>
+	</student>
+	<student>
+		<name>Georgi Krystev</name>
+		<gender>Male</gender>
+		<birth_date>1992-05-04</birth_date>
+		<phone>0897466654</phone>
+		<email>george.krystev@gmail.com</email>
+		<university>Technical University - Sofia</university>
+		<speciality>Mechatronics</speciality>
+		<exams>
+			<exam>
+				<exam_name>Mechanics</exam_name>
+				<date>2014-01-16</date>
+				<grade>6</grade>
+			</exam>
+			<exam>
+				<exam_name>Chemistry</exam_name>
+				<date>2014-01-20</date>
+				<grade>5</grade>
+			</exam>
+			<exam>
+				<exam_name>Informatics</exam_name>
+				<date>2014-01-23</date>
+				<grade>6</grade>
+			</exam>
+		</exams>
+	</student>
+</students>

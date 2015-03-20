@@ -1,0 +1,6 @@
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAndNumberOfAlbums\bin\Debug\ExtractArtistAndNumberOfAlbums.exe.config
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAndNumberOfAlbums\bin\Debug\ExtractArtistAndNumberOfAlbums.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAndNumberOfAlbums\bin\Debug\ExtractArtistAndNumberOfAlbums.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAndNumberOfAlbums\obj\Debug\ExtractArtistAndNumberOfAlbums.csprojResolveAssemblyReference.cache
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAndNumberOfAlbums\obj\Debug\ExtractArtistAndNumberOfAlbums.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAndNumberOfAlbums\obj\Debug\ExtractArtistAndNumberOfAlbums.pdb

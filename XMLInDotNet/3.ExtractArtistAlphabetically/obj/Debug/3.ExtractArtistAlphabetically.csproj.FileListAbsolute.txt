@@ -1,0 +1,5 @@
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAlphabetically\bin\Debug\ExtractArtistAlphabetically.exe.config
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAlphabetically\bin\Debug\ExtractArtistAlphabetically.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAlphabetically\bin\Debug\ExtractArtistAlphabetically.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAlphabetically\obj\Debug\ExtractArtistAlphabetically.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\ExtractArtistAlphabetically\obj\Debug\ExtractArtistAlphabetically.pdb

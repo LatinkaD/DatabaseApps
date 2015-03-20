@@ -1,0 +1,6 @@
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\6.DeleteAlbums\bin\Debug\6.DeleteAlbums.exe.config
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\6.DeleteAlbums\bin\Debug\6.DeleteAlbums.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\6.DeleteAlbums\bin\Debug\6.DeleteAlbums.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\6.DeleteAlbums\obj\Debug\6.DeleteAlbums.exe
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\6.DeleteAlbums\obj\Debug\6.DeleteAlbums.pdb
+E:\Latty\SoftUni\14.DatabaseApplications\6.2.XMLProcessingInNET\XMLInDotNet\6.DeleteAlbums\obj\Debug\6.DeleteAlbums.csprojResolveAssemblyReference.cache
